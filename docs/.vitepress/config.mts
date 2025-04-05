@@ -20,8 +20,8 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{"text":"首页","link":"/"},{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
-    sidebar: [{"text":"首页","link":"/"},{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
+    nav: [{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"},{"text":"第二个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/39ea1560-11f4-11f0-bb16-47bdd4a6f5d9"}]}],
+    sidebar: [{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"},{"text":"第二个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/39ea1560-11f4-11f0-bb16-47bdd4a6f5d9"}]}],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lyming99/wenzdoc_web' }
     ],
