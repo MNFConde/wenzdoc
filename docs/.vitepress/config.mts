@@ -20,8 +20,8 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
-    sidebar: [{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
+    nav: [{"text":"首页","link":"/"},{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
+    sidebar: [{"text":"首页","link":"/"},{"text":"技术文档","items":[{"text":"第一个文档","link":"/vitepress/8c2fe830-c5bf-11ef-8ecd-bb885d28bca0/902eb420-c5bf-11ef-8ecd-bb885d28bca0"}]}],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lyming99/wenzdoc_web' }
     ],
